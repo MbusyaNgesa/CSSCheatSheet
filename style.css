@@ -1,3 +1,13 @@
 h1 {
   color: rgb(199, 90, 17);
 }
+.Lilac {
+  color: rgb(81, 85, 83);
+}
+#pink {
+  color: palevioletred;
+}
+.Blue,
+#Red {
+  color: red;
+}
